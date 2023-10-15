@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T05:21:18.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="syPmWp_aQXLQ07DJu_CW" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T05:21:38.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="R0IOWz6s3v0TW4IAnALW" version="22.0.4" type="github">
   <diagram name="第 1 页" id="7ROx7_aEjGXye-tok1HD">
     <mxGraphModel dx="2206" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-37" value="Stage 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="-440" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-38" value="Stage 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jUJm16hUHdx93h4iEYBf-1" value="span(left,right)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-22.5" y="70" width="85" height="20" as="geometry" />
