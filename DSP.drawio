@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T05:05:01.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="4PB2_lF3-Qqk8SEsp4r6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T05:05:12.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="h2TaJwc5foJYW_PZjeL6" version="22.0.4" type="github">
   <diagram name="第 1 页" id="7ROx7_aEjGXye-tok1HD">
     <mxGraphModel dx="2206" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-28" value="Sentence Encoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2mS-3yC-kaPvrHnXkdwL-30" value="Xt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="220" width="30" height="30" as="geometry" />
+        <mxCell id="2mS-3yC-kaPvrHnXkdwL-30" value="X t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="220" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-31" value="X t-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-280" y="220" width="50" height="30" as="geometry" />
