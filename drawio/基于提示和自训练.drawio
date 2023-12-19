@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T08:45:01.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OZo2XYgYIEMHLjSLbWWE" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T08:45:53.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="167sgmenJzQMXW33C1IK" version="22.1.11" type="github">
   <diagram name="第 1 页" id="-jHL0-K5nZ6vLPdZp3nw">
     <mxGraphModel dx="1379" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,11 +160,14 @@
             <mxPoint x="550" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kYstGVCv6qOy2AmomM9-61" value="B-PER&lt;br&gt;I-PER&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2kYstGVCv6qOy2AmomM9-61" value="B-PER&lt;br&gt;O&lt;br&gt;O&lt;br&gt;B-LOC&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="400" width="55" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2kYstGVCv6qOy2AmomM9-62" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="425" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kYstGVCv6qOy2AmomM9-63" value="预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="370" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
