@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T03:40:17.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5AtT9PStwoP9dD70H1N4" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T03:40:59.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OaHbNwyvMtq18392zKw1" version="22.1.11" type="github">
   <diagram name="第 1 页" id="7ROx7_aEjGXye-tok1HD">
     <mxGraphModel dx="1806" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-95" y="40" width="230" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="2mS-3yC-kaPvrHnXkdwL-6" value="Entity Span Decoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="2mS-3yC-kaPvrHnXkdwL-6" value="实体跨度抽取器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="282.5" width="120" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2mS-3yC-kaPvrHnXkdwL-12" target="2mS-3yC-kaPvrHnXkdwL-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,10 +88,10 @@
             <mxPoint x="-580" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYYP89IDFC1U9SQ4oKSN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYYP89IDFC1U9SQ4oKSN-9" value="H1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EYYP89IDFC1U9SQ4oKSN-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYYP89IDFC1U9SQ4oKSN-10" value="H2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
