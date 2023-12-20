@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T03:45:54.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JQTF0yK0I9wzHt696uOM" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T03:46:16.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="R4QU7XLg3Bsb8w9qlgg4" version="22.1.11" type="github">
   <diagram name="第 1 页" id="7ROx7_aEjGXye-tok1HD">
-    <mxGraphModel dx="1293" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-320" y="190" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-28" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="-680" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2mS-3yC-kaPvrHnXkdwL-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,10 +55,10 @@
         <mxCell id="EYYP89IDFC1U9SQ4oKSN-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;原型网络&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-267.5" y="201.25" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EYYP89IDFC1U9SQ4oKSN-2" value="文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYYP89IDFC1U9SQ4oKSN-2" value="文本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-680" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EYYP89IDFC1U9SQ4oKSN-3" value="标签信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYYP89IDFC1U9SQ4oKSN-3" value="标签信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-560" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EYYP89IDFC1U9SQ4oKSN-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
