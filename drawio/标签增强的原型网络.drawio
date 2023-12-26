@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T06:23:14.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="6mokrwAc7FfahSrQn-K-" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T06:32:11.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IsZgGSnS5uRucMDFEuQK" version="22.1.11" type="github">
   <diagram name="第 1 页" id="7ROx7_aEjGXye-tok1HD">
     <mxGraphModel dx="2029" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,6 +118,12 @@
         </mxCell>
         <mxCell id="xHklydh9YZorjnQWgcOz-1" value="预训练语言模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-560" y="680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHklydh9YZorjnQWgcOz-2" value="Barack Obama was born in 1961." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="480" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHklydh9YZorjnQWgcOz-3" value="begin of person . inside of person . ······" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;dashPattern=12 12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-420" y="480" width="295" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
