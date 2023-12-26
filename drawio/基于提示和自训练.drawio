@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T06:37:12.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3iJTKWkQE5mIN9_XiQxU" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T06:49:36.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HHtF_OP0VZxNjB1DoTwa" version="22.1.11" type="github">
   <diagram name="第 1 页" id="-jHL0-K5nZ6vLPdZp3nw">
-    <mxGraphModel dx="544" dy="285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,7 +493,7 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-66" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="720" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-68" value="嵌入层维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" parent="1" vertex="1">
+        <mxCell id="bdtveHll9rJMcqKO4rLT-68" value="嵌入层维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="545" y="755" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
@@ -502,8 +502,8 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="667.5" width="11.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-72" value="输&lt;br&gt;入&lt;br&gt;文&lt;br style=&quot;font-size: 6px;&quot;&gt;本&lt;br style=&quot;font-size: 6px;&quot;&gt;长&lt;br style=&quot;font-size: 6px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="617.5" y="672.5" width="30" height="60" as="geometry" />
+        <mxCell id="bdtveHll9rJMcqKO4rLT-72" value="输&lt;br style=&quot;font-size: 8px;&quot;&gt;入&lt;br style=&quot;font-size: 8px;&quot;&gt;文&lt;br style=&quot;font-size: 8px;&quot;&gt;本&lt;br style=&quot;font-size: 8px;&quot;&gt;长&lt;br style=&quot;font-size: 8px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="667.5" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-73" value="文本特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="552.5" y="640" width="60" height="20" as="geometry" />
@@ -598,7 +598,7 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-102" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="887.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-103" value="嵌入层维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" parent="1" vertex="1">
+        <mxCell id="bdtveHll9rJMcqKO4rLT-103" value="嵌入层维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="545" y="922.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
@@ -607,8 +607,8 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="835" width="11.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-106" value="所&lt;br&gt;有&lt;br style=&quot;font-size: 6px;&quot;&gt;标&lt;br&gt;签&lt;br style=&quot;font-size: 6px;&quot;&gt;长&lt;br style=&quot;font-size: 6px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="617.5" y="840" width="30" height="60" as="geometry" />
+        <mxCell id="bdtveHll9rJMcqKO4rLT-106" value="所&lt;br style=&quot;font-size: 8px;&quot;&gt;有&lt;br style=&quot;font-size: 8px;&quot;&gt;标&lt;br style=&quot;font-size: 8px;&quot;&gt;签&lt;br style=&quot;font-size: 8px;&quot;&gt;长&lt;br style=&quot;font-size: 8px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="835" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-107" value="标签特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="552.5" y="807.5" width="60" height="20" as="geometry" />
