@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:58:36.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LhDf9usXxVgG5Y5e4-D1" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:59:51.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1v9jJ0aaMdG7rS1dKRzs" version="22.1.11" type="github">
   <diagram name="第 1 页" id="-jHL0-K5nZ6vLPdZp3nw">
-    <mxGraphModel dx="1263" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,8 +499,8 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="667.5" width="11.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-72" value="&lt;br style=&quot;font-size: 6px;&quot;&gt;文&lt;br style=&quot;font-size: 6px;&quot;&gt;本&lt;br style=&quot;font-size: 6px;&quot;&gt;长&lt;br style=&quot;font-size: 6px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="617.5" y="677.5" width="30" height="50" as="geometry" />
+        <mxCell id="bdtveHll9rJMcqKO4rLT-72" value="输&lt;br&gt;入&lt;br&gt;文&lt;br style=&quot;font-size: 6px;&quot;&gt;本&lt;br style=&quot;font-size: 6px;&quot;&gt;长&lt;br style=&quot;font-size: 6px;&quot;&gt;度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=0;horizontal=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="672.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-73" value="文本特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="552.5" y="640" width="60" height="20" as="geometry" />
@@ -609,6 +609,9 @@
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-107" value="标签特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="552.5" y="807.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bdtveHll9rJMcqKO4rLT-108" value="Linear Classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="670" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
