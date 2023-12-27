@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:20:43.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Axq52kK4jQMUWJ4aBKXM" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:21:12.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="6eei_e8L3tagn8_93qRl" version="22.1.12" type="github">
   <diagram name="第 1 页" id="-jHL0-K5nZ6vLPdZp3nw">
     <mxGraphModel dx="1050" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -590,11 +590,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUEqwdxoB6EM5aLc2IXS-33" value="直到收敛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="391.58000000000004" y="477" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qXJNVByr6Jm9zJsz8qeM-1" value="作为新的教师模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="373.33000000000004" y="449" width="114" height="26" as="geometry" />
+        <mxCell id="qXJNVByr6Jm9zJsz8qeM-1" value="作为新的教师模型，直到收敛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="343.95000000000005" y="449" width="174" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
