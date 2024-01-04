@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:22:34.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tJk7vxTfB0DTsNWUq_Ny" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:13:21.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="-8lS_BqHh7W_1vOPYmpQ" version="22.1.16" type="github">
   <diagram name="第 1 页" id="-jHL0-K5nZ6vLPdZp3nw">
     <mxGraphModel dx="1050" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -442,7 +442,7 @@
         <mxCell id="bdtveHll9rJMcqKO4rLT-107" value="标签特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="478.5" y="805.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bdtveHll9rJMcqKO4rLT-108" value="Linear Classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="bdtveHll9rJMcqKO4rLT-108" value="Linear Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="626" y="688" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdtveHll9rJMcqKO4rLT-109" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
@@ -590,7 +590,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXJNVByr6Jm9zJsz8qeM-1" value="作为新的教师模型，直到收敛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qXJNVByr6Jm9zJsz8qeM-1" value="作为新的教师模型，直到收敛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="343.95000000000005" y="449" width="174" height="26" as="geometry" />
         </mxCell>
       </root>
