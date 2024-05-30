@@ -1,17 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T13:54:21.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="h0_064I2Y9gl45karKnP" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T13:55:55.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="80EuLhz8hac_a8JjkeQH" version="24.4.10" type="github">
   <diagram name="第 1 页" id="LmuZkWDyMrsbqc7eGMP2">
-    <mxGraphModel dx="1499" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1249" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1I5gTGWkLh2d79B4E214-1" value="夸克高考" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1I5gTGWkLh2d79B4E214-2" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="1I5gTGWkLh2d79B4E214-2" value="一分一段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1I5gTGWkLh2d79B4E214-5" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="1I5gTGWkLh2d79B4E214-5" value="省控线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-6" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-7" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-8" value="查专业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-9" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-13" value="查大学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-14" value="查专业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1I5gTGWkLh2d79B4E214-15" value="同分去向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
