@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T07:12:53.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="yoY-A0GNusQLaU_MG9A9" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T07:13:40.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EeIFsSylkqx0YjzUv0HK" version="24.7.1" type="github">
   <diagram name="第 1 页" id="Ayst1KlnqUm64UcwYNB4">
     <mxGraphModel dx="2550" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,8 +206,8 @@
             <mxPoint x="-240" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgKxFg-9x_RAKcrL62ia-94" value="&lt;div&gt;Similarity-based&lt;/div&gt;KNN Retrieval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-384" y="241" width="140" height="50" as="geometry" />
+        <mxCell id="bgKxFg-9x_RAKcrL62ia-94" value="&lt;div&gt;sentence level&lt;/div&gt;&lt;div&gt;Similarity-based&lt;/div&gt;KNN Retrieval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="270" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bgKxFg-9x_RAKcrL62ia-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
