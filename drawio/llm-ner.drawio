@@ -151,7 +151,7 @@
         <mxCell id="bgKxFg-9x_RAKcrL62ia-71" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontColor=#121212;" parent="1" vertex="1">
           <mxGeometry x="1240" y="629" width="66" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="bgKxFg-9x_RAKcrL62ia-72" value="* K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="bgKxFg-9x_RAKcrL62ia-72" value="× K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1195" y="455" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bgKxFg-9x_RAKcrL62ia-74" value="Retrieved Demonstrations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
